@@ -4,6 +4,8 @@
 
 > include res api for testing (https://reqres.in/)
 
+![alt text](https://rachmanzz.github.io/pass-in/xample.jpg)
+
 ## Build Setup
 
 ``` bash
